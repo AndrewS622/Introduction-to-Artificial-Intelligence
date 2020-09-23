@@ -12,15 +12,15 @@ This repository contains programming assignments from HarvardX's Introduction to
 7. Language- Natural Language Processing, Context-Free Grammar, Markov Models, Naive Bayes, Information Extraction and Word Representation
 
 All programming is done in Python and the assignments for each week are as follows:
-1. a. Degrees- Write a program that determines how many degrees of separation apart two actors are.
-1. b. Tic-Tac-Toe- Implement an AI to play Tic-Tac-Toe optimally by using minimax.
-2. a. Knights- Write a program to solve logic puzzles. 
-2. b. Minesweeper- Write an AI to play Minesweeper using logical inference.
-3. a. PageRank- Write an AI to rank web pages by importance, using both sampling and iteration.
-3. b. Heredity- Write an AI to assess the likelihood that a person will have a particular genetic trait.
-4. Crossword- Write an AI to generate crossword puzzles.
-5. a. Shopping- Write an AI to predict whether online shopping customers will complete a purchase.
-5. b. Nim- Write an AI that teaches itself to play Nim through reinforcement learning.
-6. Traffic- Write an AI to identify which traffic sign appears in a photograhph.
-7. a. Parser- Write an AI to parse sentences and extract noun phrases.
-7. b. Questions- Write an AI to answer questions. 
+1. 0a. Degrees- Write a program that determines how many degrees of separation apart two actors are.
+1. 0b. Tic-Tac-Toe- Implement an AI to play Tic-Tac-Toe optimally by using minimax.
+2. 1a. Knights- Write a program to solve logic puzzles. 
+2. 1b. Minesweeper- Write an AI to play Minesweeper using logical inference.
+3. 2a. PageRank- Write an AI to rank web pages by importance, using both sampling and iteration.
+3. 2b. Heredity- Write an AI to assess the likelihood that a person will have a particular genetic trait.
+4. 3. Crossword- Write an AI to generate crossword puzzles.
+5. 4a. Shopping- Write an AI to predict whether online shopping customers will complete a purchase.
+5. 4b. Nim- Write an AI that teaches itself to play Nim through reinforcement learning.
+6. 5. Traffic- Write an AI to identify which traffic sign appears in a photograhph.
+7. 6a. Parser- Write an AI to parse sentences and extract noun phrases.
+7. 6b. Questions- Write an AI to answer questions. 
