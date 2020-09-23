@@ -18,9 +18,9 @@ All programming is done in Python and the assignments for each week are as follo
 2. 1b. Minesweeper- Write an AI to play Minesweeper using logical inference.
 3. 2a. PageRank- Write an AI to rank web pages by importance, using both sampling and iteration.
 3. 2b. Heredity- Write an AI to assess the likelihood that a person will have a particular genetic trait.
-4. 3. Crossword- Write an AI to generate crossword puzzles.
+4. 3a. Crossword- Write an AI to generate crossword puzzles.
 5. 4a. Shopping- Write an AI to predict whether online shopping customers will complete a purchase.
 5. 4b. Nim- Write an AI that teaches itself to play Nim through reinforcement learning.
-6. 5. Traffic- Write an AI to identify which traffic sign appears in a photograhph.
+6. 5a. Traffic- Write an AI to identify which traffic sign appears in a photograhph.
 7. 6a. Parser- Write an AI to parse sentences and extract noun phrases.
 7. 6b. Questions- Write an AI to answer questions. 
